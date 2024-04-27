@@ -5,7 +5,7 @@ set spell
 set cursorline
 
 "set color scheme
-colorscheme pablo
+colorscheme slate
 
 "syntax checking
 syntax on
